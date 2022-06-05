@@ -1,8 +1,8 @@
 # GtkAda_OpenAL_Doppler_Sample2
 
-Moving airplane causes Sound Doppler effect.
+Moving airplane causes Stereo Sound Doppler effect.
 
-GTKAda: Adacore 2020, Airplane moving in the screen and the Listner location is relocatable.
+GTKAda: Adacore 2020, Source Airplane moving in the screen and the Listner location is relocatable.
 
 OpenAL: Coreland 1.1.1, Stereo Doppler effect, Soure: 1000Hz PCM Mono tone sound file.
 
