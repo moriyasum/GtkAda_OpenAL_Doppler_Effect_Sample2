@@ -1,4 +1,4 @@
-# GtkAda_OpenAL_Doppler_Sample2
+# GtkAda_OpenAL_Doppler_Effect_Sample2
 
 Moving airplane causes Stereo Sound Doppler effect.
 
