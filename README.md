@@ -1,10 +1,10 @@
 # GtkAda_OpenAL_Doppler_Sample2
-GTKAda OpenAL Sample Program. Moving airplane causes Doppler effect.<cr>
-GTKAda OpenAL Sample Program Sample 2.
 
-GTKAda: Adacore, Airplane moving in the screen and the Listner location is relocatable.
+Moving airplane causes Sound Doppler effect.
 
-OpenAL: Coreland, Stereo Doppler effect, Soure: 1000Hz PCM Mono tone sound file.
+GTKAda: Adacore 2020, Airplane moving in the screen and the Listner location is relocatable.
+
+OpenAL: Coreland 1.1.1, Stereo Doppler effect, Soure: 1000Hz PCM Mono tone sound file.
 
 Timer Interrupt: Locate next position, Cycle: Programmable.
 
