@@ -7,3 +7,4 @@ Timer Interrupt: Locate next position
 X,Y Location: Calculation X=Sin(2*Pi*t)+X0, Y=Sin(2*Pi*t)+Y0
 Doppler Effect: OpenAL calculates with relative speed
 
+Detail: https://n7sd.com/ada1-2/openal-with-gtkada-gui-sample2/
