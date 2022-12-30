@@ -9,3 +9,7 @@ maintainers-logins = ["mgrojo"]
 executables = ["main"]
 [[depends-on]]
 gtkada = "^21.0.0"
+[[depends-on]]
+openal_ada = "^1.1.1-dev"
+[[pins]]
+openal_ada = { path='../../io7m/coreland-openal-ada' }

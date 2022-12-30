@@ -1,5 +1,4 @@
 with "config/doppler_effect_config.gpr";
-with "../../io7m/coreland-openal-ada/openal_ada.gpr";
 
 project Doppler_Effect is
 
